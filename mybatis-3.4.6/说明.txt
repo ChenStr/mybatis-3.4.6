@@ -1,0 +1,20 @@
+MAVEN下加入即可
+
+
+
+<dependency>
+  <groupId>org.mybatis</groupId>
+  <artifactId>mybatis</artifactId>
+  <version>x.x.x</version>
+</dependency>
+
+
+
+不是MAVEN引jar包(lib目录下为你导入mybatis时还可能回需要的jar包)
+
+jar包引入方法:打开浏览器输入www.baidu.com 在输入框里输入java怎么导入jar包,再点击百度一下即可!
+
+
+
+
+更多使用方式可以看mybatis-***.pdf文件(那是说明文档)或者去他的官方网站
